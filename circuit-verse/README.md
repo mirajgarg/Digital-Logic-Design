@@ -2,7 +2,7 @@ This file contains my progress in circuit-verse. I will be putting images in fol
 
 I will be making use of the circuit-verse interactive book.
 
-Notation : #### the no. of hashtags will the show the topic, subtopic etc.
+Notation : #### the no. of hashtags will the show the topic, subtopic etc.  
            🟢🟢 : A very important point not related to topic but for progress details.  
            🔵🔵 : Chapter  
            ✅✅ : Topic  
