@@ -12,9 +12,9 @@ Notation : #### the no. of hashtags will the show the topic, subtopic etc.
 (note: i already had tried out some logic gates in circuit-verse before starting all this, hence i had already added a picture of AND gate before all this.)
 
 
-## 🔵Binary Representation🔵 ##
+## 🔵Binary Representation🔵 
 
-### ✅ Binary system ✅ ###
+### ✅ Binary system ✅
 It was created to represent numbers using only 1 and 0. It is how computers work behind when we use them.
 We carry over to write numbers in decimal system.
 
@@ -23,7 +23,7 @@ We carry over to write numbers in decimal system.
 2) Then multiply the respective 2^ annotation with the number on that place(1/0).
 3) Add the results, you get your number.
 
-### ✅Negative Quantities✅ ###
+### ✅Negative Quantities✅
 Unsigned systems can only show positive numbers while signed systems can shows negative numbers too. However, a signed system will reduce the range for number by 
 half 1 at start in signed system shows negative number. eg: 111 in unsigned systems is 4+2+1 = 7, in signed system it is -4 + 2 + 1 = -1.
 
