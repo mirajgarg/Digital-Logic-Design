@@ -28,3 +28,10 @@ Unsigned systems can only show positive numbers while signed systems can shows n
 
 1's complement means inverting 0 into 1 and viceversa.  
 2's complement means adding 1 to 1's complement.
+
+2's complement is done to deal with negative numbers in the computer system. If you want -78, you find 2's complement of 78, however there are 2 exceptions.
+1) you cant apply it to zero since you would need be able to fit into that bit system.
+2) in case you have nth bit system then u cant apply to -2^(n-1) since:
+   -128 is written as 10000000 --> 01111111 --> 1000000.(we get the same number)
+
+   
